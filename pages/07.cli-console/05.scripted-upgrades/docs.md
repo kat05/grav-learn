@@ -126,7 +126,7 @@ If your default PHP CLI version is **5.6\*** or higher, you change this to `set(
 
 ### Servers
 
-We can set up as many servers/sites as needed, the script will be ran for each of them in order. They can be local installations or on external servers, but since this is a local setup we use `localServer` (see [Deployer/servers](https://deployer.org/docs/servers) for more configurations). Here's an example with multiple sites:
+We can set up as many servers/sites as needed, the script will be ran for each of them in order. They can be local installations or on external servers, but since this is a local setup we use `localServer` (see [Deployer/servers](https://https://deployer.org/docs/hosts.html) for more configurations). Here's an example with multiple sites:
 
 [prism classes="language-php line-numbers"]
 // Servers
